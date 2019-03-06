@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-ssr-multi-project",
+  "version": "0.0.1",
+  "description": "Система для серверного рендеринга нескольких вариантов билбов сайта под разные локализации. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paul-fedotov/react-redux-ssr-multi-project.git"
+  },
+  "author": "Paul Fedotov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paul-fedotov/react-redux-ssr-multi-project/issues"
+  },
+  "homepage": "https://github.com/paul-fedotov/react-redux-ssr-multi-project#readme"
+}
